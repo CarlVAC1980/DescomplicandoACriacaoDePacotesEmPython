@@ -10,7 +10,7 @@ setup(
     name="DescomplicandoACriacaoDePacotes",
     version="0.0.1",
     author="Carlos Valenca",
-    author_email="cavac10@yahoo.com.br",
+    author_email="cavac10@gmail.com",
     description="DIO Project",
     long_description=page_description,
     long_description_content_type="text/markdown",
